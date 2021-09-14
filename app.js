@@ -9,3 +9,7 @@ function p() {
 function b() {
     console.log("b")
 }
+function another() {
+    console.log("another")
+    
+}
